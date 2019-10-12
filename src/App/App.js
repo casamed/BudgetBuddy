@@ -1,9 +1,16 @@
 import React from 'react';
+import Router from './Router';
 
-const App = ({ title }) => {
-  return (
-    <div>{title}</div>
-  );
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+
+  render() {
+    return (
+      <Router />
+    );
+  }
 }
 
 export default App;
