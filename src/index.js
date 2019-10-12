@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import App from './App/App';
 import './Stylesheets/main.sass';
 
-const title = 'React with webpack and babel';
+const title = 'React with webpackbabel';
 
 ReactDOM.render(
   <App title={title} />,
