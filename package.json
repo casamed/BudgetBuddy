@@ -1,5 +1,5 @@
 {
-  "name": "BudgetBuddy",
+  "name": "budgetbuddy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,13 @@
   },
   "keywords": [],
   "author": "",
+  "contributors": [
+    {
+      "name": "Preston Davis",
+      "email": "prem.dav@outlook.com",
+      "url": "https://github.com/premdav"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/casamed/BudgetBuddy/issues"
