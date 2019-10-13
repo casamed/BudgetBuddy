@@ -31,10 +31,12 @@
     "@babel/preset-react": "latest",
     "babel-loader": "latest",
     "css-loader": "latest",
+    "file-loader": "^4.2.0",
     "node-sass": "latest",
     "react-hot-loader": "latest",
     "sass-loader": "latest",
     "style-loader": "latest",
+    "url-loader": "^2.2.0",
     "webpack": "latest",
     "webpack-cli": "latest",
     "webpack-dev-server": "latest"
