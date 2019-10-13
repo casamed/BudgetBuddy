@@ -3,7 +3,7 @@ import NavBar from '../NavBar/NavBar';
 
 const Landing = () => {
   return (
-    <div>
+    <div className="fullScreen landingBack">
       <NavBar/>
     </div>
   );
